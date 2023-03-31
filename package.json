@@ -1,0 +1,24 @@
+{
+  "name": "mongo-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshakhatoon17/Mongo-DB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshakhatoon17/Mongo-DB/issues"
+  },
+  "homepage": "https://github.com/ayeshakhatoon17/Mongo-DB#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
